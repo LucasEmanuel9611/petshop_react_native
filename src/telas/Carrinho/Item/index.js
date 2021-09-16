@@ -48,10 +48,4 @@ export default function Item({nome, preco, descricao, quantidade: quantidadeinic
   </>
 }
 
-/*
-             
-       { Intl.NumberFormat('pt-BR', {
-          style: 'currency', currency: 'BRL'
-        }).format(preco)}
-*/
   
